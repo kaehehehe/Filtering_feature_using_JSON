@@ -20,6 +20,8 @@ body {
   align-items: center;
 }
 
+/* Button */
+
 .button {
   display: flex;
   justify-content: center;
@@ -37,5 +39,21 @@ button {
 
 button:hover {
   opacity: .8;
+}
+
+/* Items */
+
+.items {
+  max-width: 1200px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: aquamarine;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
