@@ -72,3 +72,21 @@ button:hover {
 .item span {
   margin: 20px 0;
 }
+
+@media (max-width: 1000px) {
+
+  .items {
+    width: 800px;
+    grid-template-columns: repeat(auto-fit, minmax(200, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .button {
+    width: 400px;
+    flex-wrap: wrap;
+  }
+  .items {
+    width: 400px
+  }
+}
