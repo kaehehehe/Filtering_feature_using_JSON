@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "type": "glass",
+      "name": "제주 한라산 핸들 글라스 355ml",
+      "image": "./images/glass_img/2_11.jpg"
+    },
+    {
+      "type": "thermos",
+      "name": "SS 마레 스탠리 푸드 자 414ml",
+      "image": "./images/thermos_img/5_3.jpg"
+    },
+    {
+      "type": "plastic",
+      "name": "그린 그러데이션 사이렌 콜드컵 591ml",
+      "image": "./images/plastic_tumbler_img/3_16.jpg"
+    },
+    {
+      "type": "stainless",
+      "name": "SS 미르 핸들 고슴도치 텀블러 591ml",
+      "image": "./images/stainless_tumbler_img/4_3.jpg"
+    },
+    {
+      "type": "mug",
+      "name": "21 서머 마레 머그 355ml",
+      "image": "./images/mug_img/1.jpg"
+    },
+    {
+      "type": "stainless",
+      "name": "SS 블랙 헤리티지 오드리 텀블러 355ml",
+      "image": "./images/stainless_tumbler_img/4_16.jpg"
+    },
+    {
+      "type": "glass",
+      "name": "오로라 글라스 콜드컵 473ml",
+      "image": "./images/glass_img/2_6.jpg"
+    },
+    {
+      "type": "plastic",
+      "name": "고슴도치 스퀘어 워터보틀 414ml",
+      "image": "./images/plastic_tumbler_img/3_6.jpg"
+    },
+    {
+      "type": "stainless",
+      "name": "SS 블랙 앤 골드 콜드컵 591ml",
+      "image": "./images/stainless_tumbler_img/4_32.jpg"
+    },
+    {
+      "type": "mug",
+      "name": "21 서머 테일 머그 355ml",
+      "image": "./images/mug_img/2.jpg"
+    },
+    {
+      "type": "plastic",
+      "name": "서머 민트 스터드 텀블러 710ml",
+      "image": "./images/plastic_tumbler_img/3_5.jpg"
+    },
+    {
+      "type": "thermos",
+      "name": "JNO 마블 화이트 보온병 500ml",
+      "image": "./images/thermos_img/5_6.jpg"
+    },
+    {
+      "type": "glass",
+      "name": "오로라 글라스 콜드컵 473ml",
+      "image": "./images/glass_img/2_12.jpg"
+    },
+    {
+      "type": "plastic",
+      "name": "마블 화이트 아이코닉 텀블러 473ml",
+      "image": "./images/plastic_tumbler_img/3_13.jpg"
+    },
+    {
+      "type": "stainless",
+      "name": "SS DW 그린 워드마크 투고 텀블러 591ml",
+      "image": "./images/stainless_tumbler_img/4_10.jpg"
+    }
+  ]
+}
