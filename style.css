@@ -46,9 +46,8 @@ button:hover {
 
 .items {
   width: 1200px;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   background-color: white;
 }
 
@@ -73,4 +72,3 @@ button:hover {
 .item span {
   margin: 20px 0;
 }
-
