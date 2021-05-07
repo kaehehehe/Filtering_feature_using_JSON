@@ -6,9 +6,24 @@
       "image": "./images/glass_img/2_11.jpg"
     },
     {
+      "type": "plastic",
+      "name": "빈 데어 코리아 텀블러 355ml",
+      "image": "./images/plastic_tumbler_img/3_14.jpg"
+    },
+    {
+      "type": "mug",
+      "name": "블랙 앤 골드 머그 473ml",
+      "image": "./images/mug_img/23.jpg"
+    },
+    {
       "type": "thermos",
       "name": "SS 마레 스탠리 푸드 자 414ml",
       "image": "./images/thermos_img/5_3.jpg"
+    },
+    {
+      "type": "mug",
+      "name": "그린 사이렌 클래식 머그 355ml",
+      "image": "./images/mug_img/10.jpg"
     },
     {
       "type": "plastic",
@@ -16,9 +31,24 @@
       "image": "./images/plastic_tumbler_img/3_16.jpg"
     },
     {
+      "type": "thermos",
+      "name": "JNL 어뮤즈먼트 파크 보온병 500ml",
+      "image": "./images/thermos_img/5_5.jpg"
+    },
+    {
+      "type": "mug",
+      "name": "고슴도치 스푼 머그 296ml",
+      "image": "./images/mug_img/6.jpg"
+    },
+    {
       "type": "stainless",
       "name": "SS 미르 핸들 고슴도치 텀블러 591ml",
       "image": "./images/stainless_tumbler_img/4_3.jpg"
+    },
+    {
+      "type": "thermos",
+      "name": "SS 마레 스탠리 베이츠 보온병 473ml",
+      "image": "./images/thermos_img/5_1.jpg"
     },
     {
       "type": "mug",
@@ -34,6 +64,11 @@
       "type": "glass",
       "name": "오로라 글라스 콜드컵 473ml",
       "image": "./images/glass_img/2_6.jpg"
+    },
+    {
+      "type": "mug",
+      "name": "어뮤즈먼트 파크 컬러 머그 355ml",
+      "image": "./images/mug_img/32.jpg"
     },
     {
       "type": "plastic",
@@ -56,6 +91,16 @@
       "image": "./images/plastic_tumbler_img/3_5.jpg"
     },
     {
+      "type": "mug",
+      "name": "환구단 스퀘어 머그 355ml",
+      "image": "./images/mug_img/44.jpg"
+    },
+    {
+      "type": "stainless",
+      "name": "SS 고슴도치 데일리 워터보틀 473ml",
+      "image": "./images/stainless_tumbler_img/4_9.jpg"
+    },
+    {
       "type": "thermos",
       "name": "JNO 마블 화이트 보온병 500ml",
       "image": "./images/thermos_img/5_6.jpg"
@@ -74,6 +119,11 @@
       "type": "stainless",
       "name": "SS DW 그린 워드마크 투고 텀블러 591ml",
       "image": "./images/stainless_tumbler_img/4_10.jpg"
+    },
+    {
+      "type": "glass",
+      "name": "오제주 바다 글라스 473ml",
+      "image": "./images/glass_img/2_7.jpg"
     }
   ]
 }
