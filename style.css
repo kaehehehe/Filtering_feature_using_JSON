@@ -21,6 +21,14 @@ body {
   background-color: #F6F5EF;
 }
 
+img {
+  cursor: pointer;
+}
+
+img:hover {
+  opacity: .8;
+}
+
 /* Button */
 
 .button {
