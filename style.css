@@ -21,6 +21,14 @@ body {
   background-color: #F6F5EF;
 }
 
+.logo {
+  cursor: pointer;
+}
+
+.logo:hover {
+  opacity: .8;
+}
+
 /* Button */
 
 .button {
