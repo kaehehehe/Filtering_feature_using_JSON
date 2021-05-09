@@ -8,6 +8,6 @@
 - 각 버튼을 클릭하면 해당 아이템이 필터링이 됩니다
 
 ## 결과물
-[click here](https://kaehehehe.github.io/Filtering-items-using-JSON/)
+[click here](https://kaehehehe.github.io/Filtering_feature_using_JSON/)
 
  
